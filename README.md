@@ -45,3 +45,6 @@ Here are two key moments from the analysis:
 📄 See the full analysis in [`sprint-01-project.ipynb`](./sprint-01-project.ipynb)  
 📄 Or view a static version in [`sprint-01-project.html`](./sprint-01-project.html)  
 📄 Project background: [`project-description.md`](./project-description.md)
+
+> Note: This project uses one CSV file, which is included in the `/data/` folder.  
+> See [`/data/README.md`](./data/README.md) for details.
