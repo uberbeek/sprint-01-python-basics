@@ -18,6 +18,18 @@ The research done confirms that highly-rated shows released during the "Golden A
 
 ---
 
+## Sample Outputs
+
+Here are two key moments from the analysis:
+
+![Column Renaming](project-01-screenshot-1.png)
+*Renamed column headers for consistency and readability.*
+
+![Votes by Score](project-01-screenshot-2.png)
+*Average IMDb vote counts per score for TV shows released since 1999.*
+
+---
+
 📄 See the full analysis in [`sprint-01-project.ipynb`](./sprint-01-project.ipynb)  
 📄 Or view a static version in [`sprint-01-project.html`](./sprint-01-project.html)  
 📄 Project background: [`project-description.md`](./project-description.md)
