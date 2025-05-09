@@ -2,6 +2,14 @@
 
 ---
 
+### 📚 Table of Contents
+- 🔍 [Project Overview](#project-overview)
+- 📈 [Conclusion](#conclusion)
+- 🖼️ [Sample Outputs](#sample-outputs)
+- 📁 [Files](#files)
+
+---
+
 ## Project Overview
 
 In this project, you will work with data from the entertainment industry. You will study a dataset with records on movies and shows. The research will focus on the “Golden Age” of television, which began in 1999 with the release of The Sopranos and is still ongoing.
@@ -31,6 +39,8 @@ Here are two key moments from the analysis:
 *Average IMDb vote counts per score for TV shows released since 1999.*
 
 ---
+
+## Files
 
 📄 See the full analysis in [`sprint-01-project.ipynb`](./sprint-01-project.ipynb)  
 📄 Or view a static version in [`sprint-01-project.html`](./sprint-01-project.html)  
